@@ -5,4 +5,4 @@ Nesta oficina de introdução à Ciência de Dados, aprenderemos:
 - Operações de estatística descritiva para analisar esses dados e descobrir informações úteis sobre eles;
 - Produzir gráficos a partir das variáveis.
 
-Tudo isso usando a linguagem de programação Python e as bibliotecas Pandas, Statistics e Seaborn.
+Tudo isso usando a linguagem de programação Python e as bibliotecas Pandas e Seaborn.
